@@ -1,0 +1,5 @@
+google-cloud
+google-cloud-storage
+bigquery-magics
+google-cloud-bigquery[pandas]
+google-cloud-bigquery-storage
